@@ -1,2 +1,2 @@
-# my website
- this is my code for website
+This is code for my personal website
+
