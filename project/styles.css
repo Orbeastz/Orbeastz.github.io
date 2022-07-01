@@ -1,4 +1,4 @@
-.center {
+.center { /** sets the default styling for elements with .center */
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -10,11 +10,11 @@ p {
     margin-left: 300px;
     font-size: 17px
   }
-  ul { /** sets font ssize and makes font bold for unordered list */
+  ul { /** sets font size and makes font bold for unordered list */
     font-size:20px; 
     font-weight: bold
   }
-  li { /** sets font ssize and makes font bold for ordered list */
+  li { /** sets font size and makes font bold for ordered list */
     font-size:20px;
     font-weight: bold
   }
