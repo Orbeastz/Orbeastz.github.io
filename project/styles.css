@@ -18,3 +18,13 @@ p {
     font-size:20px;
     font-weight: bold
   }
+  /** setting css for links */
+  a link {
+    color:#E89994;
+  }
+  a hover{
+ color: red;
+  }
+  a visited{
+    color:blueviolet;
+  }
