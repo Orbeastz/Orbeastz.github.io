@@ -1,3 +1,21 @@
+        h1 {text-align: center;}
+        h2 {text-align: center;}
+        h3 {text-align: center;}
+        p {text-align:center;}
+        div {text-align: center;}
+        ul { display: inline-block; text-align: left; }
+        ol { display: inline-block; text-align: left; }
+        body {
+            background-color: #94E2E8;
+            padding-left:5%;
+            padding-right:5%;
+            padding-top:5%;
+            padding-bottom:5%
+        }
+        * {
+          font-size: 100%;
+          font-family: Didot;
+         }
 .center {
   /** sets the default styling for elements with .center */
   display: block;
